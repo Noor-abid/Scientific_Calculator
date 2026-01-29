@@ -2,7 +2,7 @@ import Calculator from "./components/Calculator";
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <Calculator />
     </div>
   );
